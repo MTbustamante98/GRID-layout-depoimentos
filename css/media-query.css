@@ -1,3 +1,14 @@
+@media(max-width: 1366px) {
+  main {
+   padding-top: 20px;
+  }
+
+  .first-container-top::before {
+    left: 400px;
+    top: 25px;
+  }
+}
+
 /* MEDIA 1060px */
 @media (max-width: 1060px) { 
 .box:nth-of-type(1) h1,
